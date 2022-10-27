@@ -1,0 +1,5 @@
+/Users/davidgadzimetov/Projects/daily/daily/obj/Debug/net6.0/daily.csproj.AssemblyReference.cache
+/Users/davidgadzimetov/Projects/daily/daily/obj/Debug/net6.0/daily.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidgadzimetov/Projects/daily/daily/obj/Debug/net6.0/daily.AssemblyInfoInputs.cache
+/Users/davidgadzimetov/Projects/daily/daily/obj/Debug/net6.0/daily.AssemblyInfo.cs
+/Users/davidgadzimetov/Projects/daily/daily/obj/Debug/net6.0/daily.csproj.CoreCompileInputs.cache
